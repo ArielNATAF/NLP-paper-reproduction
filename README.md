@@ -8,7 +8,9 @@ The original work we had to reproduce:
 * **W18-0515.pdf**, the original paper
 * **Nataf Khalbous Chanier Research Article Reproducibility.pdf**, our report
 * **results**, folder containg our results. They are the ouptut retrieved using |tee "output...txt" in the console.
-* 
+
+Mr Khalbous and Mr Nataf have worked on the code and Mr Chanier has focus his work on the report.
+
 # Natural Language Processing : Research Article Reproducibility
 ## Experiments with Universal CEFR classifications
 > Ariel Nataf, Adnene Khalbous, Jean-Baptiste Chanier
