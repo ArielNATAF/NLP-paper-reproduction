@@ -1,0 +1,99 @@
+Language Features True
+Doing: take all data as if it belongs to one large dataset, and do classification
+Mega classification for:  pos  features
+2267 2267 2267 135
+Distribution of labels: 
+Counter({'B1': 890, 'A2': 875, 'B2': 374, 'A1': 86, 'C1': 42})
+setting: pos
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13278
+[0.74889868 0.74449339 0.75330396 0.74889868 0.75330396 0.71365639
+ 0.77973568 0.71238938 0.72566372 0.75663717]
+Mean: 0.7436981014385403
+F1: 0.7297848468577297
+[[ 18  68   0   0   0   0]
+ [  7 742 125   1   0   0]
+ [  0 175 633  82   0   0]
+ [  0   5  76 293   0   0]
+ [  0   0   0  42   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13278
+[0.6784141  0.66079295 0.61674009 0.64757709 0.62995595 0.62995595
+ 0.64317181 0.66814159 0.66814159 0.66371681]
+Mean: 0.6506607929515418
+F1: 0.6442115156626298
+[[ 22  59   4   0   1   0]
+ [ 35 639 191  10   0   0]
+ [  0 235 575  78   2   0]
+ [  0  16 107 238  13   0]
+ [  0   1   4  36   1   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13278
+[0.68722467 0.66960352 0.64317181 0.63436123 0.66079295 0.67400881
+ 0.66960352 0.69026549 0.66371681 0.7079646 ]
+Mean: 0.6700713422478656
+F1: 0.6670796536915791
+[[ 28  54   3   0   1   0]
+ [ 37 644 183  11   0   0]
+ [  1 205 602  80   2   0]
+ [  0   3 105 241  25   0]
+ [  0   0   3  35   4   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+
+------------
+
+Language Features False
+Doing: take all data as if it belongs to one large dataset, and do classification
+Mega classification for:  pos  features
+2267 2267 2267 135
+Distribution of labels: 
+Counter({'B1': 890, 'A2': 875, 'B2': 374, 'A1': 86, 'C1': 42})
+setting: pos
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13275
+[0.75770925 0.75330396 0.73568282 0.74008811 0.73568282 0.74008811
+ 0.75770925 0.72123894 0.72566372 0.75221239]
+Mean: 0.7419379361428403
+F1: 0.7283520577247582
+[[ 20  66   0   0   0   0]
+ [  6 749 119   1   0   0]
+ [  0 182 628  80   0   0]
+ [  0   5  84 285   0   0]
+ [  0   0   0  42   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13275
+[0.66960352 0.64757709 0.61674009 0.63436123 0.62995595 0.61674009
+ 0.62555066 0.65929204 0.66371681 0.67256637]
+Mean: 0.6436103855600173
+F1: 0.6375290667397306
+[[ 22  59   4   0   1   0]
+ [ 40 629 196  10   0   0]
+ [  0 236 571  81   2   0]
+ [  0  17 109 236  12   0]
+ [  0   1   5  35   1   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+13275
+13275
+[0.6784141  0.64757709 0.64317181 0.65198238 0.64317181 0.66960352
+ 0.66519824 0.66371681 0.66814159 0.69911504]
+Mean: 0.6630092394058711
+F1: 0.6594538291799791
+[[ 25  57   4   0   0   0]
+ [ 35 629 199  12   0   0]
+ [  1 200 607  80   2   0]
+ [  0   4 111 237  22   0]
+ [  0   0   3  34   5   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG

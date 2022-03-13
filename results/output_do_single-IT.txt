@@ -1,0 +1,976 @@
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001765_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100011_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100266_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001065_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100475_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001025_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100104_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000646_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001753_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000051_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001524_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000448_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100227_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001010_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000596_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000376_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001024_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000470_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001712_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000607_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001798_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100182_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100135_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000054_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001141_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001756_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001020_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001059_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001101_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100470_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001093_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001173_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000317_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100290_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100014_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001019_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100263_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000504_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001104_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000591_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100187_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000602_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000438_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001092_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001018_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001139_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001021_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000554_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100018_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100222_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001058_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100188_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001761_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001792_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000403_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001172_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001718_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000278_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100102_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001017_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001136_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000533_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001090_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000320_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100447_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000022_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000240_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000635_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000239_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001759_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001133_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001056_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100215_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000557_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000318_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000383_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000103_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000563_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000527_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000152_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100098_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100251_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000513_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000536_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001133_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001012_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001098_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000608_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100107_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001764_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000095_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001013_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100269_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000700_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000011_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100094_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001136_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100146_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100181_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000447_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001725_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000630_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001079_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000414_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001501_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001785_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001161_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001118_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001165_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001196_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000139_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000398_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001040_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000535_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000140_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001121_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001158_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001075_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001041_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001737_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000035_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001120_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000455_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001124_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000059_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001078_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100288_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000114_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001160_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001119_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001124_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100005_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001045_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100455_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000129_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100031_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000549_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000684_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001160_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000677_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100169_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001773_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000213_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001119_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001165_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000104_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100070_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000049_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001121_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001158_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000627_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001732_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000450_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100196_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001044_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001113_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000533_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100282_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100006_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000210_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000628_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001157_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001032_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001152_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000355_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100230_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001033_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000126_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000610_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000296_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000678_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000601_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001080_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001037_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001152_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000043_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001084_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100274_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100287_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001076_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001085_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100190_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100163_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001113_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001199_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001117_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000136_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000123_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001121_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001157_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100063_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000319_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000102_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001017_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001057_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000241_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000023_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100185_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001758_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001132_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000532_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000315_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100022_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000321_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001016_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000402_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001793_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001760_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100103_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000279_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001719_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001137_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100147_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001133_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000631_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100180_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001052_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001178_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100211_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100095_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000389_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000609_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001796_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001013_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001099_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001132_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100229_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000526_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100027_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100099_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100477_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000606_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001104_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000471_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100183_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001799_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000595_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001096_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001144_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000529_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100226_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100028_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000550_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100065_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000130_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001525_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100148_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000050_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001752_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001138_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001024_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100267_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000525_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001064_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100024_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100253_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100069_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100474_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000555_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001020_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000518_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001720_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100223_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100019_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001138_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001093_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001019_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001105_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100186_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100175_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001101_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001716_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100482_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000316_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100262_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000505_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001100_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001021_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001058_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100134_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000642_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000237_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001081_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001800_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000611_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000582_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001730_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100194_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000099_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000354_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100231_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000127_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000547_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000360_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001153_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001033_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000047_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100198_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001156_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100270_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001080_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000304_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001156_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000365_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000122_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000137_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100162_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001112_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000587_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001116_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001084_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001077_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001076_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000185_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100002_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100275_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001739_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100123_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000042_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001740_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001036_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001161_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100469_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100203_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000575_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100289_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000454_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000034_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001125_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001115_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001039_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001040_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001120_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001159_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000138_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001741_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100451_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001738_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000141_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000534_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000415_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000368_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001197_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001164_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001078_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001045_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000048_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001120_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001159_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000451_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001733_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001124_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000357_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000583_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000105_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100071_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000390_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001164_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001129_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000676_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001192_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001161_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000685_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000469_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001772_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100168_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001118_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000531_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000144_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100280_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100004_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001744_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001070_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000548_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000128_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001125_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001123_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001749_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000452_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100167_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001046_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001167_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000106_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100205_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100072_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000499_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001191_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000675_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000686_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001162_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000211_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000095_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001771_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000413_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001126_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100457_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100007_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001073_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100200_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000396_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000585_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100279_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001162_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001043_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100191_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001122_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000037_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001198_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000120_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000369_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001742_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001128_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000537_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100286_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001123_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001088_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000090_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000214_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001787_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001503_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001153_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001194_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001167_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100117_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100074_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001034_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000366_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001155_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001087_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001111_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000584_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001736_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001788_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100192_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100118_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001158_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000460_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000399_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000500_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000302_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001075_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000186_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100285_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000579_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100276_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000119_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001035_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000038_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000458_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001160_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100120_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001150_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001129_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000041_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001119_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000465_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000612_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100164_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000626_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001169_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001008_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001082_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100232_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100008_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100458_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000124_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001746_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000044_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001155_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100125_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001111_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001168_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100030_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001142_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000556_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001023_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100259_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100057_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100220_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001723_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000443_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000088_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100176_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000611_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000017_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001715_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001063_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001090_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001137_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100218_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100255_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100481_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100472_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100261_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100016_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001147_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100137_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001523_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001754_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001022_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001095_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000012_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001189_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001103_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000446_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000209_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001724_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100173_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000098_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000340_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100268_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100225_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000553_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100066_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000387_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001027_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000337_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000053_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100106_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001751_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000644_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001728_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000598_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100013_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000503_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000378_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001067_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000512_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001051_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001028_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001149_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001134_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100170_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000564_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000597_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000104_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100051_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100212_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001068_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100096_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100478_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000013_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001109_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001170_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001010_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001175_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100105_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001145_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001108_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001795_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000404_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000097_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001766_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001171_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000449_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100010_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001750_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000388_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000534_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001131_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001141_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100093_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100217_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000101_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000020_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100138_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001148_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000612_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001131_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000059_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001054_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001134_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000514_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100256_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000559_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001061_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100021_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000333_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100471_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000322_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100015_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100058_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001109_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100179_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001790_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000087_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100100_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001757_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001170_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001015_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100121_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000039_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001151_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000040_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000187_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001074_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000303_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100079_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100277_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001774_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001110_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001789_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001114_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100119_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001169_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001086_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001154_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100202_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001126_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000353_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100281_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001071_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000504_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100461_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001110_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001169_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001048_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000045_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001150_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001747_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001193_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001154_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001164_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100009_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100233_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100459_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000554_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000356_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000391_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000125_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001128_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001009_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001083_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100151_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100165_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000602_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000359_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100456_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001127_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001163_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000674_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001190_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100199_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001167_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000572_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000107_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000581_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000392_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000361_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100073_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100204_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100080_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001166_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001047_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001122_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001748_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001126_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000033_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100166_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100195_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001786_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000215_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001775_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001166_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001195_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100116_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001089_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001122_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000750_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100003_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000143_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001734_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001123_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000036_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000462_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001127_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001042_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001163_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000188_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100201_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000364_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000102_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100278_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001130_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001526_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001146_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001028_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100252_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001174_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001109_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001170_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001767_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001794_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001011_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001108_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000528_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000565_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100299_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100097_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100029_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100213_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001069_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000551_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100064_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100479_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100145_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001528_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001135_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001726_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100171_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001131_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000409_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001050_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001029_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001097_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001014_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001108_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001762_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100178_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001791_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100101_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001171_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100020_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001060_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100257_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000515_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000323_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001135_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001055_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100139_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000021_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100174_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000636_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001149_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001130_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001717_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000058_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000380_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100092_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100061_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001015_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000593_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000100_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000560_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100448_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001023_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000639_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100136_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000057_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001522_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000516_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000314_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100219_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100023_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100473_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100480_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001763_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100017_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100260_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001091_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001062_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100177_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100184_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_9000089_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001107_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001714_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000016_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001103_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001022_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100258_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100221_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100056_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001016_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001143_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001107_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100012_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100228_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100265_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000599_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100476_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000379_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100026_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001066_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001147_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000052_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000432_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001527_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001729_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100133_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000341_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001727_IT_A1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100224_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100067_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000552_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000338_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000649_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0000604_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001188_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0000099_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1395_0001132_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1365_0100172_IT_B1.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1385_0001768_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001053_IT_A2.txt.parsed.txt
+Ignoring this text:  ../Datasets/IT-Parsed/1325_1001094_IT_B1.txt.parsed.txt
+Extracted all features: 
+Printing class statistics
+Counter({'B1': 394, 'A2': 381, 'A1': 29})
+
+/\/\/\
+With Word ngrams: 
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2704
+2704
+[0.87654321 0.88888889 0.85185185 0.86419753 0.8625     0.7875
+ 0.8125     0.825      0.8875     0.8375    ]
+0.8493981481481482 0.8389211019681649
+[[  3  26   0   0   0   0]
+ [  1 327  53   0   0   0]
+ [  0  41 353   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2704
+2704
+[0.81481481 0.82716049 0.75308642 0.80246914 0.8        0.675
+ 0.85       0.8        0.7625     0.7625    ]
+0.784753086419753 0.7828865375261869
+[[  9  20   0   0   0   0]
+ [ 12 301  68   0   0   0]
+ [  0  73 321   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', max_iter=200, random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+2704
+2704
+[0.83950617 0.88888889 0.80246914 0.85185185 0.775      0.6875
+ 0.8375     0.8        0.8125     0.825     ]
+0.8120216049382716 0.8118995213259446
+[[ 10  19   0   0   0   0]
+ [ 17 311  53   0   0   0]
+ [  0  62 332   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+
+/\/\/\
+With POS ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+4808
+4808
+[0.87654321 0.88888889 0.82716049 0.79012346 0.8625     0.7625
+ 0.8125     0.8        0.8375     0.8375    ]
+0.8295216049382717 0.8184397174640342
+[[  2  27   0   0   0   0]
+ [  1 331  49   0   0   0]
+ [  0  60 334   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+4808
+4808
+[0.83950617 0.79012346 0.79012346 0.72839506 0.75       0.75
+ 0.825      0.7625     0.8        0.75      ]
+0.7785648148148149 0.773919411107578
+[[  7  21   1   0   0   0]
+ [  4 303  74   0   0   0]
+ [  0  78 316   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', max_iter=200, random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+4808
+4808
+[0.82716049 0.79012346 0.82716049 0.7654321  0.7625     0.75
+ 0.8625     0.7375     0.85       0.7625    ]
+0.7934876543209877 0.7907748817307627
+[[  8  21   0   0   0   0]
+ [ 11 304  66   0   0   0]
+ [  0  68 326   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+
+/\/\/\
+Dep ngrams:  
+ ******
+Printing results for: RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+5052
+5052
+[0.88888889 0.85185185 0.79012346 0.80246914 0.85       0.7125
+ 0.8        0.7875     0.875      0.8625    ]
+0.8220833333333333 0.8093365621678789
+[[  1  28   0   0   0   0]
+ [  0 337  44   0   0   0]
+ [  0  71 323   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LinearSVC(class_weight='balanced', random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+5052
+5052
+[0.67901235 0.75308642 0.77777778 0.74074074 0.8625     0.675
+ 0.7875     0.6875     0.75       0.8       ]
+0.7513117283950617 0.7456139328082388
+[[  3  26   0   0   0   0]
+ [ 10 297  74   0   0   0]
+ [  0  90 304   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+Printing results for: LogisticRegression(class_weight='balanced', max_iter=200, random_state=1234)CountVectorizer(min_df=10, ngram_range=(1, 5))
+5052
+5052
+[0.77777778 0.77777778 0.81481481 0.7654321  0.85       0.725
+ 0.825      0.7375     0.825      0.8       ]
+0.7898302469135803 0.787453694736469
+[[  7  22   0   0   0   0]
+ [ 14 303  64   0   0   0]
+ [  0  69 325   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]
+ [  0   0   0   0   0   0]]
+SAME LANG EVAL DONE FOR THIS LANG
+
+/\/\/\
+Domain features:  
+ ******
+RandomForestClassifier(class_weight='balanced', n_estimators=300,
+                       random_state=1234)
+[0.86419753 0.86419753 0.77777778 0.79012346 0.85       0.7375
+ 0.825      0.8375     0.8375     0.8625    ]
+0.8246296296296297
+[[  0  29   0]
+ [  1 328  52]
+ [  0  59 335]]
+0.560320364833769
+LinearSVC(class_weight='balanced', random_state=1234)
+[0.79012346 0.82716049 0.62962963 0.5308642  0.475      0.7
+ 0.8        0.5375     0.75       0.825     ]
+0.6865277777777778
+[[  0  29   0]
+ [  1 334  46]
+ [  0 176 218]]
+0.46290031276155236
+LogisticRegression(class_weight='balanced', max_iter=200, random_state=1234)
+[0.79012346 0.79012346 0.69135802 0.69135802 0.675      0.6625
+ 0.6875     0.7125     0.6875     0.7125    ]
+0.7100462962962963
+[[ 23   6   0]
+ [110 230  41]
+ [  2  74 318]]
+0.5969370667178918
+
+/\/\/\
+Combined feature rep: wordngrams + domain
+Acc:  0.8493364197530864
+F1:  0.8281002746617445
+
+/\/\/\
+Combined feature rep: posngrams + domain
+Acc:  0.8295679012345678
+F1:  0.8223021139280685
+n/\/\/\
+nCombined feature rep: depngrams + domain
+Acc:  0.8257870370370369
+F1:  0.7962779117009653
